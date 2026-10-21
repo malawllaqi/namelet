@@ -17,6 +17,8 @@
   "oxc.fmt.disableNestedConfig": true,
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "file",
+  "editor.formatOnPaste": true,
+  "emmet.showExpandedAbbreviation": "never",
   "editor.codeActionsOnSave": {
     "source.fixAll.oxc": "explicit"
   }
