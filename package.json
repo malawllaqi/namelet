@@ -1,6 +1,6 @@
 {
   "name": "namelet",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Tiny, flexible name generator for JavaScript and TypeScript.",
   "keywords": [
     "name-generator",
@@ -30,7 +30,7 @@
   },
   "scripts": {
     "build": "vp pack",
-    "dev": "vp pack --watch",
+    "dev": "vp pack --watch --on-success \"node dist/index.mjs\"",
     "test": "vp test",
     "lint": "vp lint",
     "check": "vp check",
