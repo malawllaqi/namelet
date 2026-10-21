@@ -1,6 +1,6 @@
 {
   "name": "namelet",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Tiny, flexible name generator for JavaScript and TypeScript.",
   "keywords": [
     "name-generator",
